@@ -12,7 +12,7 @@ namespace TestGtitApp
         {
             Console.Write("Hr");
             Console.Write("Hr");
-            Console.Write("rwaar");
+            Console.Write("rwar");
             Console.Write("Hr");
 
 
