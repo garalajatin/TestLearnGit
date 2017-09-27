@@ -12,6 +12,7 @@ namespace TestGtitApp
         {
             Console.Write("Hr");
             Console.Write("Hr");
+
             Console.Write("Hr");
         }
     }
